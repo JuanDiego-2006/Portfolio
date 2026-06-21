@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fondo oscuro que coincide con tu diseño -->
+  <rect width="100" height="100" rx="24" fill="#0b0f19" stroke="#00d2ff" stroke-width="4"/>
+  
+  <!-- Texto con tus iniciales y el punto cyan -->
+  <text x="50" y="66" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="46" fill="#ffffff" text-anchor="middle" letter-spacing="-2">
+    JD<tspan fill="#00d2ff">.</tspan>
+  </text>
+</svg>
