@@ -25,8 +25,8 @@ export default function Hero() {
 
         <div className="hero-buttons">
           <a href="#contact" className="btn btn-primary">Contrátame</a>
-          {/* Aquí lee tu archivo original, el %20 representa el espacio en blanco */}
-          <a href="/Juan_Diego_Ramos_Altamirano_CV.pdf" download className="btn btn-secondary">Descargar CV</a>
+          {/* RUTA CORREGIDA CON /Portfolio PARA GITHUB PAGES */}
+          <a href="/Portfolio/Juan_Diego_Ramos_Altamirano_CV.pdf" download="Juan_Diego_Ramos_Altamirano_CV.pdf" className="btn btn-secondary">Descargar CV</a>
         </div>
       </div>
     </section>
