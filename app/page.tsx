@@ -27,7 +27,7 @@ export default function Home() {
       </main>
 
       <footer className="footer">
-        <p>© 2026 Juan Diego Ramos Altamirano. Todos los derechos recervados.</p>
+        <p>© 2026 Juan Diego Ramos Altamirano. Todos los derechos reservados.</p>
       </footer>
     </div>
   );
