@@ -3,6 +3,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/Portfolio", // <--- Agrega esta línea
 };
 
-export default nextConfig; // <--- ¡Esto es lo que faltaba!
+export default nextConfig;
