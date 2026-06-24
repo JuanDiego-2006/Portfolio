@@ -6,21 +6,21 @@ export default function Projects() {
       title: "Adopt-Me",
       role: "Frontend Developer",
       description: "Desarrollo del frontend utilizando HTML, CSS y JS para una app con chat en tiempo real y dashboard. Backend soportado en Java (Spring Boot).",
-      tags: ["HTML", "CSS", "JS", "Spring Boot", "MySQL"],
+      tags: ["HTML", "CSS", "JS", "Spring Boot", "MySQL", "WebSocket"],
       image: "/Portfolio/adopt-me.png" // Corregido para GitHub Pages
     },
     {
       title: "HarmoNet",
-      role: "Backend / Full Stack",
+      role: "Frontend / Base de Datos Developer",
       description: "Plataforma diseñada para ayudar a músicos independientes a promocionar su trabajo y conectar con sus audiencias.",
-      tags: ["Java", "SQL"],
+      tags: ["HTML", "CSS", "JS", "SQL"],
       image: "/Portfolio/harmonet.png" // Corregido para GitHub Pages
     },
     {
       title: "UniRaite",
       role: "Mobile Developer",
       description: "App Android enfocada en el viaje compartido (carpooling) entre estudiantes para mejorar la movilidad universitaria.",
-      tags: ["Android", "Movilidad"],
+      tags: ["Android", "Movilidad", "GPS", "Cámara"],
       image: "/Portfolio/logouniraite.png" // Corregido para GitHub Pages
     },
     {
